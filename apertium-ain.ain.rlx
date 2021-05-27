@@ -19,8 +19,8 @@ REMOVE (n) IF (1 (exc)) ;
 # http://visl.sdu.dk/cg3.html
 # http://groups.google.com/group/constraint-grammar
 # http://kevindonnelly.org.uk/2010/05/constraint-grammar-tutorial/
-# http://wiki.apertium.org/wiki/Constraint_Grammar
-# http://wiki.apertium.org/wiki/Apertium_and_Constraint_Grammar
+# https://wiki.apertium.org/wiki/Constraint_Grammar
+# https://wiki.apertium.org/wiki/Apertium_and_Constraint_Grammar
 # If there is a singular noun to the right, I cannot be a verb or noun.
 # REMOVE (n) OR (v) IF (1 (n s)) ;
 # If there is a conjunction followed by a certain cohort of the same CASE as me, choose me.
